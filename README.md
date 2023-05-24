@@ -15,4 +15,6 @@ You can exit by pressing "SELECT" at any moment.
 
 Because I don't have a "NEW" model of the 3DS, I don't know how the program will react to the C-Stick.
 ## Images 
+(The white line is the demarcation between the both screens.)
+
 ![rp](https://github.com/Zamacian/Pong-3DSX/assets/124669534/0d173426-95fb-4f33-a57f-7aaedc80770a)
